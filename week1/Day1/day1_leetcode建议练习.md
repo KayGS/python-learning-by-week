@@ -7,7 +7,7 @@
 | [√] | 2114 | Maximum Words in Sentences  | 简单 | https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/ |
 | [√] | 1662 | Check If Two String Arrays are Equivalent | 简单 | https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/ |
 | [√] | 1528 | Shuffle String              | 简单 | https://leetcode.cn/problems/shuffle-string/ |
-| [ ] | 344  | Reverse String              | 简单 | https://leetcode.cn/problems/reverse-string/ |
+| [√] | 344  | Reverse String              | 简单 | https://leetcode.cn/problems/reverse-string/ |
 | [ ] | 345  | Reverse Vowels of a String  | 简单 | https://leetcode.cn/problems/reverse-vowels-of-a-string/ |
 | [ ] | 1374 | Generate a String with Odd Count of Chars | 简单 | https://leetcode.cn/problems/generate-a-string-with-characters-that-have-odd-counts/ |
 
