@@ -23,7 +23,7 @@
 | [√] | 1929 | Concatenation of Array     | 简单 | https://leetcode.cn/problems/concatenation-of-array/ |
 | [√] | 1480 | Running Sum of 1d Array    | 简单 | https://leetcode.cn/problems/running-sum-of-1d-array/ |
 | [√] | 1512 | Number of Good Pairs       | 简单 | https://leetcode.cn/problems/number-of-good-pairs/ |
-| [ ] | 1672 | Richest Customer Wealth    | 简单 | https://leetcode.cn/problems/richest-customer-wealth/ |
+| [√] | 1672 | Richest Customer Wealth    | 简单 | https://leetcode.cn/problems/richest-customer-wealth/ |
 
 ---
 
@@ -31,12 +31,12 @@
 
 | 状态 | 题号 | 题目 | 难度 | 链接 |
 |------|------|------|------|------|
-| [ ] | 9    | Palindrome Number          | 简单 | https://leetcode.cn/problems/palindrome-number/ |
-| [ ] | 125  | Valid Palindrome           | 简单 | https://leetcode.cn/problems/valid-palindrome/ |
-| [ ] | 20   | Valid Parentheses          | 简单 | https://leetcode.cn/problems/valid-parentheses/ |
-| [ ] | 1342 | Number of Steps to Zero    | 简单 | https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/ |
-| [ ] | 2413 | Smallest Even Multiple     | 简单 | https://leetcode.cn/problems/smallest-even-multiple/ |
-| [ ] | 2235 | Add Two Integers           | 简单 | https://leetcode.cn/problems/add-two-integers/ |
+| [√] | 9    | Palindrome Number          | 简单 | https://leetcode.cn/problems/palindrome-number/ |
+| [√] | 125  | Valid Palindrome           | 简单 | https://leetcode.cn/problems/valid-palindrome/ |
+| [√] | 20   | Valid Parentheses          | 简单 | https://leetcode.cn/problems/valid-parentheses/ |
+| [√] | 1342 | Number of Steps to Zero    | 简单 | https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/ |
+| [√] | 2413 | Smallest Even Multiple     | 简单 | https://leetcode.cn/problems/smallest-even-multiple/ |
+| [√] | 2235 | Add Two Integers           | 简单 | https://leetcode.cn/problems/add-two-integers/ |
 
 
 
