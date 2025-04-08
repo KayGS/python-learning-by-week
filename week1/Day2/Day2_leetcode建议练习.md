@@ -8,11 +8,11 @@
 
 | 状态 | 题号 | 题目 | 类型 | 链接 |
 |------|------|------|------|------|
-| [ ] | 1365 | 有多少数字小于当前数字 | for + 计数 | https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/ |
-| [ ] | 1480 | 一维数组的运行和 | 累加循环 | https://leetcode.cn/problems/running-sum-of-1d-array/ |
-| [ ] | 1342 | 将数字变为 0 的操作步数 | while + 判断 | https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/ |
-| [ ] | 383  | 赎金信（字符频次循环） | for + 计数 + 字符串 | https://leetcode.cn/problems/ransom-note/ |
-| [ ] | 876  | 链表的中间节点（可选挑战） | 快慢指针 | https://leetcode.cn/problems/middle-of-the-linked-list/ |
+| [√] | 1365 | 有多少数字小于当前数字 | for + 计数 | https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/ |
+| [√] | 1480 | 一维数组的运行和 | 累加循环 | https://leetcode.cn/problems/running-sum-of-1d-array/ |
+| [√] | 1342 | 将数字变为 0 的操作步数 | while + 判断 | https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/ |
+| [√] | 383  | 赎金信（字符频次循环） | for + 计数 + 字符串 | https://leetcode.cn/problems/ransom-note/ |
+| [√] | 876  | 链表的中间节点（可选挑战） | 快慢指针 | https://leetcode.cn/problems/middle-of-the-linked-list/ |
 
 ---
 
