@@ -20,10 +20,10 @@
 
 | 状态 | 题号 | 题目 | 类型 | 链接 |
 |------|------|------|------|------|
-| [ ] | 1431 | 拥有最多糖果的孩子 | 判断最大值 | https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/ |
-| [ ] | 1672 | 最富有客户的资产总量 | 二层循环（列表中列表） | https://leetcode.cn/problems/richest-customer-wealth/ |
-| [ ] | 2413 | 最小的偶倍数 | if 判断整除 | https://leetcode.cn/problems/smallest-even-multiple/ |
-| [ ] | 2535 | 数组中元素的和与数字和的差值 | 模拟 + while 拆数字 | https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/ |
+| [√] | 1431 | 拥有最多糖果的孩子 | 判断最大值 | https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/ |
+| [√] | 1672 | 最富有客户的资产总量 | 二层循环（列表中列表） | https://leetcode.cn/problems/richest-customer-wealth/ |
+| [√] | 2413 | 最小的偶倍数 | if 判断整除 | https://leetcode.cn/problems/smallest-even-multiple/ |
+| [√] | 2535 | 数组中元素的和与数字和的差值 | 模拟 + while 拆数字 | https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/ |
 
 ---
 
@@ -31,6 +31,6 @@
 
 | 状态 | 题号 | 题目 | 类型 | 链接 |
 |------|------|------|------|------|
-| [ ] | 58   | 最后一个单词的长度 | 字符串 & 逆向查找 | https://leetcode.cn/problems/length-of-last-word/ |
-| [ ] | 202  | 快乐数（数字变换模拟） | while + set | https://leetcode.cn/problems/happy-number/ |
-| [ ] | 2299 | 强密码检验器（字符串多条件）| if 判断组合 | https://leetcode.cn/problems/strong-password-checker-ii/ |
+| [√] | 58   | 最后一个单词的长度 | 字符串 & 逆向查找 | https://leetcode.cn/problems/length-of-last-word/ |
+| [√] | 202  | 快乐数（数字变换模拟） | while + set | https://leetcode.cn/problems/happy-number/ |
+| [√] | 2299 | 强密码检验器（字符串多条件）| if 判断组合 | https://leetcode.cn/problems/strong-password-checker-ii/ |
