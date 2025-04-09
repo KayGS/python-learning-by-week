@@ -1,6 +1,3 @@
-**Day 2 Python LeetCode 做题知识点总结**
-
----
 
 ### 【一、LeetCode 题目总览】
 
