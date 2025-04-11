@@ -9,10 +9,10 @@
 
 | 状态 | 题号 | 题目 | 链接 | 涉及知识点 |
 |------|------|------|------|-------------|
-| [ ] | 1436 | 旅行终点站 | https://leetcode.cn/problems/destination-city/ | 列表去重、推导式 |
-| [ ] | 1684 | 统计一致字符串数量 | https://leetcode.cn/problems/count-the-number-of-consistent-strings/ | 字符串判断、集合 |
-| [ ] | 709  | 转换成小写字母 | https://leetcode.cn/problems/to-lower-case/ | 字符串 `.lower()` |
-| [ ] | 929  | 独特的电子邮件地址 | https://leetcode.cn/problems/unique-email-addresses/ | 字符串拆分、替换、集合 |
+| [√] | 1436 | 旅行终点站 | https://leetcode.cn/problems/destination-city/ | 列表去重、推导式 |
+| [√] | 1684 | 统计一致字符串数量 | https://leetcode.cn/problems/count-the-number-of-consistent-strings/ | 字符串判断、集合 |
+| [√] | 709  | 转换成小写字母 | https://leetcode.cn/problems/to-lower-case/ | 字符串 `.lower()` |
+| [√] | 929  | 独特的电子邮件地址 | https://leetcode.cn/problems/unique-email-addresses/ | 字符串拆分、替换、集合 |
 | [ ] | 1389 | 按既定顺序创建目标数组 |  | `insert()` 列表插入 |
 | [ ] | 1720 | 解码异或后的数组        |  | 列表遍历、前后项操作 |
 | [ ] | 2574 | 左右元素和的差值        |  | `sum()`、索引遍历 |
